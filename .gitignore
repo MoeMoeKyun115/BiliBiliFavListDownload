@@ -1,3 +1,5 @@
 config.json
 __pycache__/Action.cpython-37.pyc
 __pycache__/Database.cpython-37.pyc
+__pycache__/
+download/
